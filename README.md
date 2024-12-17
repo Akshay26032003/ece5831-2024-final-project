@@ -6,4 +6,4 @@
 ### Report: https://drive.google.com/file/d/11gg3ILRgqleK9XbGdUiad-EjYJZkxd3X/view?usp=drive_link
 ### Dataset: https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail
 ### Demo Video: https://youtu.be/4PaFYiZCygg?feature=shared
-### Pre-Recorded Presentation Video: 
+### Pre-Recorded Presentation Video: https://drive.google.com/file/d/14EC_6UZEjCb7K5ipxMyyR3B8fIPIOMrY/view?usp=drive_link
